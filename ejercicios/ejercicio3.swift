@@ -1,5 +1,5 @@
-//1. Hacer la media de cinco número pedidos por consola.
-func ej1(){
+//3. El primer ejercicio usando funciones.
+func ej3(){
     var numeros = [Int]()
     var x = 0
     var total = 0
