@@ -8,8 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		1A5DB8232CA584BD00B07783 /* ejercicio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5DB8222CA584BD00B07783 /* ejercicio2.swift */; };
+		1A9177212CB6681B006C90EF /* ejercicio6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9177202CB6681B006C90EF /* ejercicio6.swift */; };
 		1AC8976E2CA4199300BD5860 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC8976D2CA4199300BD5860 /* main.swift */; };
 		1AC897762CA419BB00BD5860 /* ejercicio1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC897752CA419BB00BD5860 /* ejercicio1.swift */; };
+		1AC9BCA72CB6668F00E1F9B4 /* ejercicio5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC9BCA62CB6668F00E1F9B4 /* ejercicio5.swift */; };
 		1AE1140D2CABFFC3003818B8 /* ejercicio3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE1140C2CABFFC3003818B8 /* ejercicio3.swift */; };
 		1AE114102CAC025E003818B8 /* ejercicio4 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE1140F2CAC025E003818B8 /* ejercicio4 .swift */; };
 /* End PBXBuildFile section */
@@ -28,9 +30,11 @@
 
 /* Begin PBXFileReference section */
 		1A5DB8222CA584BD00B07783 /* ejercicio2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ejercicio2.swift; sourceTree = "<group>"; };
+		1A9177202CB6681B006C90EF /* ejercicio6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ejercicio6.swift; sourceTree = "<group>"; };
 		1AC8976A2CA4199300BD5860 /* ejercicios */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ejercicios; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AC8976D2CA4199300BD5860 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1AC897752CA419BB00BD5860 /* ejercicio1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ejercicio1.swift; sourceTree = "<group>"; };
+		1AC9BCA62CB6668F00E1F9B4 /* ejercicio5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ejercicio5.swift; sourceTree = "<group>"; };
 		1AE1140C2CABFFC3003818B8 /* ejercicio3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ejercicio3.swift; sourceTree = "<group>"; };
 		1AE1140F2CAC025E003818B8 /* ejercicio4 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ejercicio4 .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +74,8 @@
 				1A5DB8222CA584BD00B07783 /* ejercicio2.swift */,
 				1AE1140C2CABFFC3003818B8 /* ejercicio3.swift */,
 				1AE1140F2CAC025E003818B8 /* ejercicio4 .swift */,
+				1AC9BCA62CB6668F00E1F9B4 /* ejercicio5.swift */,
+				1A9177202CB6681B006C90EF /* ejercicio6.swift */,
 			);
 			path = ejercicios;
 			sourceTree = "<group>";
@@ -134,7 +140,9 @@
 				1A5DB8232CA584BD00B07783 /* ejercicio2.swift in Sources */,
 				1AC8976E2CA4199300BD5860 /* main.swift in Sources */,
 				1AC897762CA419BB00BD5860 /* ejercicio1.swift in Sources */,
+				1AC9BCA72CB6668F00E1F9B4 /* ejercicio5.swift in Sources */,
 				1AE1140D2CABFFC3003818B8 /* ejercicio3.swift in Sources */,
+				1A9177212CB6681B006C90EF /* ejercicio6.swift in Sources */,
 				1AE114102CAC025E003818B8 /* ejercicio4 .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
